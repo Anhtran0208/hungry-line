@@ -7,7 +7,6 @@ Hungry Line is a mobile app that provides a way to join dining hall queues onlin
 - [Technologies](#technologies)
 - [Design](#design)
 - [App Demo](#app-demo)
-- [Installation and Setup](#installation-and-setup)
 - [Credits](#credits)
 
 ## Overview
@@ -29,19 +28,7 @@ We opted for a warm color palette to evoke sensations of comfort and coziness. T
 
 ## App Demo
 
-https://github.com/chelshe18/hungry-line/assets/87384211/6cabc1f3-fa04-47a6-a658-26ddb097fd89
-
-## Installation and Setup
-
-Clone the repository from GitHub: ```git clone https://github.com/chelshe18/hungry-line.git```
-
-Navigate to the hungry-line directory: ```cd hungry-line```
-
-Install app dependencies using the command corresponding to your package manager: ```npm install``` or ```yarn install```
-
-To run the app, download the Expo Go app on the App Store or Google Play Store, then connect to the same network as your computer. In the project directory, run ```npx expo start``` or ```yarn expo start```
-
-On Android, use the Expo Go app to scan the QR code from your terminal to open your project. On iOS, use the built-in QR code scanner of the default iOS Camera app.
+https://github.com/Anhtran0208/hunrgy-line/assets/66905335/defca473-d371-48d5-8273-d4aa174526eb
 
 ## Credits
 
